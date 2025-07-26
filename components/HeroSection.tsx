@@ -1,6 +1,7 @@
 // components/HeroSection.tsx
 
 import React from 'react';
+import Link from 'next/link';
 
 const HeroSection: React.FC = () => {
   return (
@@ -39,7 +40,8 @@ const HeroSection: React.FC = () => {
         
         {/* Responsive Button */}
         {/* UPDATED: Both padding and font size scale up with the screen size for a consistently prominent CTA */}
-        <button 
+        <Link 
+          href="/services"
           className="bg-brand-red text-white font-bold 
                      text-lg py-3 px-8 
                      md:text-xl md:py-4 md:px-12 
@@ -47,7 +49,7 @@ const HeroSection: React.FC = () => {
                      rounded-full transition-all duration-300 ease-in-out transform hover:scale-110 shadow-xl hover:shadow-2xl border-2 border-brand-gold-light hover:bg-red-700"
         >
           Explore Our Services
-        </button>
+        </Link>
       </div>
     </div>
   );
