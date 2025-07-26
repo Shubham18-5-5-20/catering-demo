@@ -4,6 +4,7 @@
 const nextConfig = {
   // Add this 'images' block to allow external image domains
   images: {
+    domains: ['redtagcaterers.in'],
     remotePatterns: [
       {
         protocol: 'https',
