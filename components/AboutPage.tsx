@@ -25,9 +25,9 @@ const AboutPageContent: React.FC = () => {
       {/* 2. Our Story Section */}
       <section className="bg-black py-16 sm:py-20 lg:py-24 px-4 sm:px-6 lg:px-8">
         <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-3xl sm:text-4xl font-bold text-white">From a Simple Idea to the Tri-City&#39;s Premier Caterer</h2>
+          <h2 className="text-3xl sm:text-4xl font-bold text-white">From a Simple Idea to the City&#39;s Premier Caterer</h2>
           <p className="mt-6 text-lg text-gray-300 leading-relaxed">
-            Founded in 2010, Red Tag Caterers was born from a simple yet powerful idea: that every event, no matter its size, deserves a culinary experience that is both memorable and exceptional. We started with a small, passionate team dedicated to bringing authentic flavors and innovative dishes to the table. Over the last decade, we&#39;ve grown into one of the most trusted catering firms in Chandigarh, Mohali, and Panchkula, but our core belief remains the same: every flavor tells a story. [1]
+            Founded in 2010, Caterers was born from a simple yet powerful idea: that every event, no matter its size, deserves a culinary experience that is both memorable and exceptional. We started with a small, passionate team dedicated to bringing authentic flavors and innovative dishes to the table. Over the last decade, we&#39;ve grown into one of the most trusted catering firms in the city, but our core belief remains the same: every flavor tells a story. [1]
           </p>
         </div>
       </section>

@@ -13,7 +13,7 @@ interface Testimonial {
 // and initialized with placeholder data.
 const testimonials: Testimonial[] = [
   {
-    quote: "Red Tag Caterers made our wedding day absolutely perfect. The food was phenomenal, and the service was impeccable. Our guests are still talking about the delicious appetizers!",
+    quote: "Caterers made our wedding day absolutely perfect. The food was phenomenal, and the service was impeccable. Our guests are still talking about the delicious appetizers!",
     author: "Anjali & Rohan P.",
     eventType: "Wedding Reception",
   },
@@ -23,7 +23,7 @@ const testimonials: Testimonial[] = [
     eventType: "Corporate Gala",
   },
   {
-    quote: "The catering for my parents' 50th anniversary was a huge hit, thanks to the Red Tag team. They were so attentive to our needs and created a menu that everyone loved.",
+    quote: "The catering for my parents' 50th anniversary was a huge hit, thanks to the team. They were so attentive to our needs and created a menu that everyone loved.",
     author: "Priya K.",
     eventType: "Anniversary Party",
   },

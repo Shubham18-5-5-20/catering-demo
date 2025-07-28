@@ -14,7 +14,7 @@ const Footer: React.FC = () => {
               Red Tag <span className="text-brand-gold-medium">Caterers</span>
             </h3>
             <p className="text-gray-400 text-base">
-              Crafting unforgettable culinary experiences since 2010. We specialize in bespoke catering for weddings, corporate events, and intimate gatherings across the Tri-City.
+              Crafting unforgettable culinary experiences since 2010. We specialize in bespoke catering for weddings, corporate events, and intimate gatherings across the City.
             </p>
             <div className="flex space-x-6">
               {/* Add social media links here */}
@@ -57,8 +57,8 @@ const Footer: React.FC = () => {
               <div>
                 <h3 className="text-sm font-semibold text-gray-200 tracking-wider uppercase">Get in Touch</h3>
                 <div className="mt-4 space-y-4 text-base text-gray-400">
-                  <p>SC0-35, Near Fountain<br/>Sector 17, Chandigarh</p>
-                  <p>+91 98721 51166</p>
+                  <p> Your <br/>Address</p>
+                  <p>+91 99999 99999</p>
                   <p>[email protected]</p>
                 </div>
               </div>
@@ -66,7 +66,7 @@ const Footer: React.FC = () => {
           </div>
         </div>
         <div className="mt-12 border-t border-gray-700 pt-8">
-          <p className="text-base text-gray-400 xl:text-center">&copy; 2024 Red Tag Caterers. All rights reserved.</p>
+          <p className="text-base text-gray-400 xl:text-center">&copy; 2024 Caterers. All rights reserved.</p>
         </div>
       </div>
     </footer>

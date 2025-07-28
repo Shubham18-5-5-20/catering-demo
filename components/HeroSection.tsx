@@ -24,7 +24,7 @@ const HeroSection: React.FC = () => {
         
         {/* Responsive Sub-headline */}
         <p className="text-base sm:text-lg lg:text-xl font-light tracking-wider mb-2 text-brand-gold-light">
-          Best Caterers in Chandigarh Since 2010
+          Best Caterers Since 2010
         </p>
         
         {/* Responsive Main Headline */}
@@ -35,7 +35,7 @@ const HeroSection: React.FC = () => {
         
         {/* Responsive Body Text */}
         <p className="text-md sm:text-lg lg:text-xl max-w-4xl mx-auto mb-8 font-light text-gray-200">
-          Crafting unforgettable culinary experiences for weddings, corporate events, and intimate gatherings across the Tri-City.
+          Crafting unforgettable culinary experiences for weddings, corporate events, and intimate gatherings across the City.
         </p>
         
         {/* Responsive Button */}
