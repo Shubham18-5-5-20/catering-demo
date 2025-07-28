@@ -7,7 +7,7 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Red Tag Caterers | Premium Catering in Chandigarh',
+  title: 'demo site ',
   description: 'Crafting unforgettable culinary experiences for weddings, corporate events, and intimate gatherings across the Tri-City.',
 }
 
